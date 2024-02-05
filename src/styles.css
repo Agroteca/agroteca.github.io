@@ -126,7 +126,9 @@ h1 {
     color: black;
     background-color: #ebd6b1;
     padding: 12px;
-    text-align: center;
+    text-align: left;
+    border: 1px solid #ebd6b1;
+    border-radius: 20px;
 }
 
 h2 {
@@ -134,15 +136,19 @@ h2 {
     color: black;
     background-color: #ebd6b1;
     padding: 12px;
-    text-align: center;
+    text-align: left;
+    border: 1px solid #ebd6b1;
+    border-radius: 20px;
 }
 
-h3 {
+.h3 {
     font-family: 'Dosis', sans-serif;
     color: black;
-    margin: 12px;
     padding: 12px;
+    margin: 12px;
     text-align: center;
+    border: 1px solid rgb(109, 118, 150);
+    border-radius: 20px;
 }
 
 .fa-table-columns,
