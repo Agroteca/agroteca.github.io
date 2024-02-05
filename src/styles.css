@@ -28,6 +28,10 @@
     z-index: 1030;
 }
 
+.d-inline {
+    display: inline;
+}
+
 .container-fluid
 ,.row {
     width: 100%;
